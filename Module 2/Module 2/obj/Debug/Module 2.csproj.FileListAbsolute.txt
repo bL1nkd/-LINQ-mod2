@@ -1,0 +1,7 @@
+C:\Users\SAMSUNG\Downloads\Module 2\Module 2\Module 2\bin\Debug\Module 2.exe.config
+C:\Users\SAMSUNG\Downloads\Module 2\Module 2\Module 2\bin\Debug\Module 2.exe
+C:\Users\SAMSUNG\Downloads\Module 2\Module 2\Module 2\bin\Debug\Module 2.pdb
+C:\Users\SAMSUNG\Downloads\Module 2\Module 2\Module 2\obj\Debug\Module 2.csproj.AssemblyReference.cache
+C:\Users\SAMSUNG\Downloads\Module 2\Module 2\Module 2\obj\Debug\Module 2.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Downloads\Module 2\Module 2\Module 2\obj\Debug\Module 2.exe
+C:\Users\SAMSUNG\Downloads\Module 2\Module 2\Module 2\obj\Debug\Module 2.pdb
